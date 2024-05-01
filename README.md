@@ -1,5 +1,5 @@
 # U-Net: Semantic Segmentation with keras
-Semantic segmentation on Electron Microscopy dataset using U-Net 
+Tensorflow implementation of U-Net to perform semantic segmentation on Electron Microscopy dataset   
 
 The architecture is inspired by [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597).
 
